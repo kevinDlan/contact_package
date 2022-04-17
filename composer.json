@@ -1,0 +1,19 @@
+{
+    "name": "kevinkone/contact",
+    "description": "package for sending mail to admin and store it in a db",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Kevinkone\\Contact\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "kevin KONE",
+            "email": "kevinkone19@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
